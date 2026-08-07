@@ -1,0 +1,39 @@
+# Build products
+/build/
+/dist/
+/bin/
+*.exe
+*.dll
+*.o
+*.obj
+*.d
+*.pdb
+*.ilk
+*.map
+
+# Runtime and private data
+/runtime/
+/data/
+/logs/
+/lists/
+*.log
+*.bak
+
+# Local configuration
+/config.local.bat
+/*.local.*
+/.env
+/.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

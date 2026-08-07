@@ -1,0 +1,6 @@
+B	google-analytics.com	S	208206705	208206705	1	60	contains "analytics"
+B	doubleclick.net	S	208206705	208206705	1	60	contains "doubleclick" (ad serving)
+B	googleadservices.com	S	208206705	208206705	1	60	contains "googleadservices" (ad services)
+B	googlesyndication.com	S	208206705	208206705	1	60	contains "googlesyndication" (ad syndication)
+B	scorecardresearch.com	S	208206705	208206705	1	60	suspicious / telemetry domain
+B	adnxs.com	S	208206705	208206705	1	60	suspicious / telemetry domain

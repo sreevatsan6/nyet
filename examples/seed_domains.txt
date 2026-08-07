@@ -1,0 +1,11 @@
+# A few well-known generic ad/tracking domains to get you started.
+# Run this through create_blocklist_tsv.py to generate examples/blocklist.tsv:
+#   python3 scripts/create_blocklist_tsv.py examples/seed_domains.txt
+# Then rename/move the resulting output.tsv wherever you want, or copy it
+# as a starting point for your own real BLOCKLIST_PATH.
+google-analytics.com
+doubleclick.net
+googleadservices.com
+googlesyndication.com
+scorecardresearch.com
+adnxs.com
